@@ -332,6 +332,7 @@ class _AddExpenseState extends State<AddExpense> {
               SizedBox(
                 height: 16,
               ),
+
               TextField(
                 controller: dateController,
                 readOnly: true,
